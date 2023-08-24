@@ -1,3 +1,5 @@
+This clone of cuVite will modify the graph data structs to eliminate the CPU overhead for heterogeneous CPU and CPU implementation
+
 *************
 -------------
  COMPILATION
